@@ -81,7 +81,7 @@ Contact
 Mihir Chauhan - [@Email](mihir.chauhan1529@gmail.com) -
 [@LinkedIn](https://www.linkedin.com/in/mihir-chauhan-9ab7b21aa/)
 
-Project Link: <https://github.com/MihirChauhan15/Social-App>
+Project Link: <https://github.com/MihirChauhan15/News-App>
 
 References
 ----------
