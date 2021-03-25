@@ -38,7 +38,7 @@ Table Of Contents
 About The Project
 -----------------
 
-News App display the latest breaking news and it allows users to search anything.Users can also save the news whichever they likes . MVVM architecture was used to build this app. 
+News App display the latest breaking news and it allows users to search anything.Users can also save the news whichever they likes or delete any saved news  . MVVM architecture was used to build this app. 
 
 ### Built With
 
