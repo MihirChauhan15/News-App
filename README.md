@@ -42,7 +42,7 @@ News App display the latest breaking news and it allows users to search anything
 
 ### Built With
 
--   Android SDK v26
+-   Android SDK v21
 -   Android Build Tools v30.0.5
 
 ### Demo
